@@ -5,7 +5,7 @@ homepage: https://github.com/synw/filex
 version: 0.3.0
 
 environment:
-  sdk: ">=2.3.0 <3.0.0"
+  sdk: ">=2.8.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
   flutter_slidable: ^0.5.7
   open_file: ^3.0.3
   path: ^1.7.0
-  path_provider: ^1.6.24
+  path_provider: ^2.0.1
   pedantic: ^1.9.2
   permission: ^0.1.7
   rxdart: ^0.25.0
