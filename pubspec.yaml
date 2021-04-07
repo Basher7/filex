@@ -19,7 +19,7 @@ dependencies:
   path_provider: ^2.0.1
   pedantic: ^1.9.2
   permission: ^0.1.7
-  rxdart: ^0.25.0
+  rxdart: ^0.26.0
 
 dev_dependencies:
   flutter_test:
