@@ -3,6 +3,7 @@ description: A configurable file explorer widget for Flutter. Trailing and
   leading widgets are configurable.
 homepage: https://github.com/synw/filex
 version: 0.3.0
+publish_to: 'none'
 
 environment:
   sdk: ">=2.8.0 <3.0.0"
